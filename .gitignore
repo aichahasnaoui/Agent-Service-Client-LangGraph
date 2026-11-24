@@ -1,0 +1,19 @@
+# Clés API
+.env
+
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Base de données
+boutique.db
+
+# ChromaDB
+chroma_db/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Fichiers système
+.DS_Store
